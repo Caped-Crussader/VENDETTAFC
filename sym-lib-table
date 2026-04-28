@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MP1584EN-LF-Z") (type "KiCad") (uri "${KIPRJMOD}/Library/MP1584EN-LF-Z/MP1584EN-LF-Z.kicad_sym") (options "") (descr ""))
+)
