@@ -1,0 +1,9 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SM08B-SRSS-TB") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/SM08B-SRSS-TB/SM08B-SRSS-TB.kicad_sym") (options "") (descr ""))
+	(lib (name "LMR51420YDDCR") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/LMR51420YDDCR/LMR51420YDDCR.kicad_sym") (options "") (descr ""))
+	(lib (name "AT32F421G8U7") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/AT32F421G8U7/2026-04-28_11-31-30.kicad_sym") (options "") (descr ""))
+	(lib (name "A4915METTR-T") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/A4915METTR-T/2026-04-28_12-07-28.kicad_sym") (options "") (descr ""))
+	(lib (name "components") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/components.kicad_sym") (options "") (descr ""))
+	(lib (name "VESC") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/VESC.kicad_sym") (options "") (descr ""))
+)

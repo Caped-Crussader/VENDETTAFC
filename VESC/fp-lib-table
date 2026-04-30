@@ -1,0 +1,11 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SM08B-SRSS-TB") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/SM08B-SRSS-TB") (options "") (descr ""))
+	(lib (name "LMR51420YDDCR") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/LMR51420YDDCR") (options "") (descr ""))
+	(lib (name "AT32F421G8U7") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/AT32F421G8U7/footprints.pretty") (options "") (descr ""))
+	(lib (name "A4915METTR-T") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/A4915METTR-T/A4915METTR-T.pretty") (options "") (descr ""))
+	(lib (name "VESC") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/VESC.pretty") (options "") (descr ""))
+	(lib (name "SP40N03GNJ") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/SP40N03GNJ/SP40N03GNJ.pretty") (options "") (descr ""))
+	(lib (name "NSG2065Q") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/NSG2065Q") (options "") (descr ""))
+	(lib (name "drawings") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/drawings.pretty") (options "") (descr ""))
+)
