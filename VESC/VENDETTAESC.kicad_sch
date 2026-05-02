@@ -6748,7 +6748,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "124K"
+		(property "Value" "95k3"
 			(at 252.73 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8507,7 +8507,7 @@
 	)
 	(symbol
 		(lib_id "SMBJ30A:SMBJ30A")
-		(at 106.68 73.66 0)
+		(at 106.68 73.66 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10120,7 +10120,7 @@
 				)
 			)
 		)
-		(property "Value" "0.2mR"
+		(property "Value" "0.5mR"
 			(at 92.71 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)

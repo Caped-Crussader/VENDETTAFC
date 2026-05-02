@@ -4162,6 +4162,12 @@
 		(uuid "cf771c08-7c2a-438d-a714-93524ff2de47")
 	)
 	(junction
+		(at 27.94 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d3ec5575-d821-4c3d-be64-a7d191dc2bbc")
+	)
+	(junction
 		(at 260.35 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5031,6 +5037,16 @@
 	)
 	(wire
 		(pts
+			(xy 27.94 63.5) (xy 38.1 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0d012ac-2539-4627-a294-b4ee1b47d2cb")
+	)
+	(wire
+		(pts
 			(xy 96.52 123.19) (xy 96.52 130.81)
 		)
 		(stroke
@@ -5201,7 +5217,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 63.5) (xy 38.1 63.5)
+			(xy 45.72 63.5) (xy 48.26 63.5)
 		)
 		(stroke
 			(width 0)
@@ -5510,7 +5526,7 @@
 		(uuid "b6db6844-9d7d-4626-a102-8a30bfa26e32")
 	)
 	(label "VDDA"
-		(at 38.1 63.5 0)
+		(at 48.26 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6460,7 +6476,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "75K"
 			(at 264.16 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6911,10 +6927,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5b3fe5ef-7e20-4397-a3d5-95f669ce1bef")
 		(property "Reference" "R13"
-			(at 156.21 33.02 90)
+			(at 156.21 34.036 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6924,7 +6939,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 156.21 35.56 90)
+			(at 156.21 36.576 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6988,6 +7003,96 @@
 				)
 				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
 					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 27.94 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5dc1c13e-c576-4efc-a1d7-287bf28a9ebc")
+		(property "Reference" "#PWR0105"
+			(at 27.94 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 27.94 76.2 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.94 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 27.94 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a8b6447e-d060-422f-9b65-270c53c2440c")
+		)
+		(instances
+			(project "VENDETTAESC"
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/7c9e156b-b536-46fa-851a-311dd633243a"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c4194d8a-4081-4750-8aa5-45e80972e9ea"
+					(reference "#PWR0105")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c6d0038e-73b1-4107-979d-7d477f3b42f0"
+					(reference "#PWR0108")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -7168,6 +7273,100 @@
 				)
 				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
 					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 27.94 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a41a783-1347-439c-941b-af98de7f9dc0")
+		(property "Reference" "C71"
+			(at 31.75 66.0399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 31.75 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 28.9052 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 27.94 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec5de17d-314e-4e0e-9938-d18e3e9f7ccc")
+		)
+		(pin "2"
+			(uuid "a4708b03-f44c-4b1d-8dbe-de9d71eaf2d4")
+		)
+		(instances
+			(project "VENDETTAESC"
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/7c9e156b-b536-46fa-851a-311dd633243a"
+					(reference "C73")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c4194d8a-4081-4750-8aa5-45e80972e9ea"
+					(reference "C71")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c6d0038e-73b1-4107-979d-7d477f3b42f0"
+					(reference "C74")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
+					(reference "C72")
 					(unit 1)
 				)
 			)
@@ -7919,7 +8118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "470uF"
 			(at 26.67 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9019,7 +9218,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "75K"
 			(at 212.09 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10224,7 +10423,7 @@
 	)
 	(symbol
 		(lib_id "Device:FerriteBead")
-		(at 31.75 63.5 90)
+		(at 41.91 63.5 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10234,7 +10433,7 @@
 		(dnp no)
 		(uuid "e0ad30d0-9ca8-40f0-9bcb-851226d1de6f")
 		(property "Reference" "FB1"
-			(at 32.258 68.58 90)
+			(at 42.418 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10244,7 +10443,7 @@
 			)
 		)
 		(property "Value" "FerriteBead"
-			(at 32.258 71.12 90)
+			(at 42.418 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10254,7 +10453,7 @@
 			)
 		)
 		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
-			(at 31.75 65.278 90)
+			(at 41.91 65.278 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10265,7 +10464,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 63.5 0)
+			(at 41.91 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10276,7 +10475,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead"
-			(at 31.75 63.5 0)
+			(at 41.91 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10336,7 +10535,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "75K"
 			(at 238.76 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
