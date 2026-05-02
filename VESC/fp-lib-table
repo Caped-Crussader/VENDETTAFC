@@ -8,4 +8,5 @@
 	(lib (name "SP40N03GNJ") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/SP40N03GNJ/SP40N03GNJ.pretty") (options "") (descr ""))
 	(lib (name "NSG2065Q") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/NSG2065Q") (options "") (descr ""))
 	(lib (name "drawings") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/drawings.pretty") (options "") (descr ""))
+	(lib (name "SMBJ30A") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/SMBJ30A") (options "") (descr ""))
 )

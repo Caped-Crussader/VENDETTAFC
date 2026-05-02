@@ -242,6 +242,7 @@
         0.2,
         0.25,
         0.4,
+        0.6,
         0.8,
         1.0,
         2.0
@@ -284,6 +285,10 @@
         {
           "diameter": 0.3,
           "drill": 0.15
+        },
+        {
+          "diameter": 0.4,
+          "drill": 0.2
         },
         {
           "diameter": 0.45,
@@ -786,7 +791,7 @@
         "uuid": "62497189-72eb-441b-9043-ca0a95596c6f"
       }
     ],
-    "used_designators": "Q5-28",
+    "used_designators": "Q5-28,D1",
     "variants": []
   },
   "sheets": [

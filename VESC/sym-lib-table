@@ -6,4 +6,5 @@
 	(lib (name "A4915METTR-T") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/A4915METTR-T/2026-04-28_12-07-28.kicad_sym") (options "") (descr ""))
 	(lib (name "components") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/components.kicad_sym") (options "") (descr ""))
 	(lib (name "VESC") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/VESC.kicad_sym") (options "") (descr ""))
+	(lib (name "SMBJ30A") (type "KiCad") (uri "${KIPRJMOD}/LIBRARY/SMBJ30A/SMBJ30A.kicad_sym") (options "") (descr ""))
 )
