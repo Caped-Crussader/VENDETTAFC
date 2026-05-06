@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT7456E
+D Video Character Overlay Chip (OSD)
+K
+F https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-AT7456E_C82351.pdf
+$ENDCMP
+#
+#End Doc Library

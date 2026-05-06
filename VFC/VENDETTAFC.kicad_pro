@@ -658,13 +658,25 @@
         "uuid": "9ae0bade-d999-4f08-aa3a-8f8795024d1d"
       }
     ],
-    "used_designators": "J5,#PWR59-61",
+    "used_designators": "L1-3,#PWR5,#PWR7-13,#PWR22-38,#PWR51-90,C4,C9-11,C14-39,U2,U5-10,J1-6,IC1-3,#FLG1,R1-17,R19-20,R25-35,Y2,TP1-2,P1,D6-8,F1,Q1",
     "variants": []
   },
   "sheets": [
     [
       "9ae0bade-d999-4f08-aa3a-8f8795024d1d",
       "Root"
+    ],
+    [
+      "f4654729-a114-4964-8f4c-68feea8f16a2",
+      "Power Section"
+    ],
+    [
+      "0cbc1a1c-a578-4001-92a8-060ef55501c3",
+      "Sensor Section"
+    ],
+    [
+      "0bb68037-7e9e-4ff0-9877-30630ba0cfb8",
+      "Interface Section"
     ]
   ],
   "text_variables": {},
