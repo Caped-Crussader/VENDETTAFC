@@ -25,4 +25,7 @@
 	(lib (name "EVQ-P7A01P") (type "KiCad") (uri "${KIPRJMOD}/Library/EVQ-P7A01P") (options "") (descr ""))
 	(lib (name "MICROASMD010F-2") (type "KiCad") (uri "${KIPRJMOD}/Library/MICROASMD010F-2/KiCADv6/MICROASMD010F-2") (options "") (descr ""))
 	(lib (name "USB4940-00-A_REVA") (type "KiCad") (uri "${KIPRJMOD}/Library/USB4940-00-A_REVA") (options "") (descr ""))
+	(lib (name "AP7361C-FGE-7") (type "KiCad") (uri "${KIPRJMOD}/Library/AP7361C-FGE-7") (options "") (descr ""))
+	(lib (name "NCP167BMX330TBG") (type "KiCad") (uri "${KIPRJMOD}/Library/NCP167BMX330TBG") (options "") (descr ""))
+	(lib (name "BLM18PG221SN1D") (type "KiCad") (uri "${KIPRJMOD}/Library/BLM18PG221SN1D") (options "") (descr ""))
 )
