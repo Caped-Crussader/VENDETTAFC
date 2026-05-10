@@ -3205,6 +3205,36 @@
 			(embedded_fonts no)
 		)
 	)
+	(text ""
+		(exclude_from_sim no)
+		(at 34.798 20.32 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "0ac74ece-cf9f-4749-9c8e-23d3b67b7e25")
+	)
+	(text ""
+		(exclude_from_sim no)
+		(at 28.194 20.828 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "c7e7579f-ebf7-44b7-98b7-a8722b925b3f")
+	)
+	(text "Edge Connectors"
+		(exclude_from_sim no)
+		(at 42.672 21.336 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "cf5b4c0d-2dc3-4a81-ab3c-453d138183ca")
+	)
 	(junction
 		(at 104.14 139.7)
 		(diameter 0)
@@ -3849,6 +3879,16 @@
 		)
 		(uuid "19574bc7-e4fb-4e0e-82a8-9658ab1900b6")
 	)
+	(polyline
+		(pts
+			(xy 182.88 76.2) (xy 182.88 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1aa8ed95-0381-4eed-b828-dafab867119c")
+	)
 	(wire
 		(pts
 			(xy 31.75 175.26) (xy 130.81 175.26)
@@ -3958,6 +3998,16 @@
 			(type default)
 		)
 		(uuid "288da6a9-9857-4184-af84-b36780ca753f")
+	)
+	(polyline
+		(pts
+			(xy 279.4 121.92) (xy 279.4 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2986094e-c6e0-43d2-b892-02ec5b7554ff")
 	)
 	(wire
 		(pts
@@ -4448,6 +4498,16 @@
 			(type default)
 		)
 		(uuid "7cb35bd5-c139-4df5-b83a-8d09b304bf4f")
+	)
+	(polyline
+		(pts
+			(xy 182.88 121.92) (xy 279.4 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fca3a85-ee0e-43ab-8f53-05e9f39865d2")
 	)
 	(polyline
 		(pts
@@ -5108,6 +5168,16 @@
 			(type default)
 		)
 		(uuid "f19f459e-6bc7-4594-898e-8fdf5846aebf")
+	)
+	(polyline
+		(pts
+			(xy 182.88 76.2) (xy 279.4 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1c9c246-e228-4cb0-91c6-57017ee3ef86")
 	)
 	(wire
 		(pts
