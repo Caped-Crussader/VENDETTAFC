@@ -4,6 +4,9 @@
 	(generator_version "10.0")
 	(uuid "62497189-72eb-441b-9043-ca0a95596c6f")
 	(paper "A4")
+	(title_block
+		(comment 1 "Copyright (C) 2026 Caped-Crussader\nLicensed under CERN-OHL-S v2\nhttps://github.com/Caped-Crussader/VENDETTAFC")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Current:INA185"
 			(pin_names

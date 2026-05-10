@@ -4,6 +4,9 @@
 	(generator_version "10.0")
 	(uuid "24a91877-ebdf-4467-9652-5e4e7d74d2a2")
 	(paper "A4")
+	(title_block
+		(comment 1 "Copyright (C) 2026 Caped-Crussader\nLicensed under CERN-OHL-S v2\nhttps://github.com/Caped-Crussader/VENDETTAFC")
+	)
 	(lib_symbols
 		(symbol "2N7002K_1"
 			(pin_names

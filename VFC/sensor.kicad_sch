@@ -4,6 +4,9 @@
 	(generator_version "10.0")
 	(uuid "1f2ea974-b52f-4347-8926-714abc0cdbe4")
 	(paper "A3")
+	(title_block
+		(comment 1 "Copyright (C) 2026 Caped-Crussader\nLicensed under CERN-OHL-S v2\nhttps://github.com/Caped-Crussader/VENDETTAFC")
+	)
 	(lib_symbols
 		(symbol "BMP388:BMP388"
 			(pin_names
