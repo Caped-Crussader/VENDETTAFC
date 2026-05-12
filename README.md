@@ -1,4 +1,4 @@
-"PROJECT STILL WORK IN PROGRESS ⚠️"
+"Firmware STILL WORK IN PROGRESS ⚠️"
 
 # VENDETTA FPV Stack
 
@@ -24,6 +24,10 @@ The VENDETTA stack consists of two boards designed to work together as a matched
 ## VENDETTA ESC (VESC)
 
 A 30×30mm 4-in-1 ESC (25A x 4) designed for 3–6S FPV multirotors.
+
+<img width="2631" height="3428" alt="images" src="https://github.com/user-attachments/assets/831620c5-2d64-482b-baf8-a0a63fbee630" />
+
+> Note: 6 Layer Board, GND (plane 2 and 5) plane photos not included.
 
 ### Specifications
 
@@ -61,6 +65,10 @@ AT32F421 ──→ DShot (from FC) ──→ PWM generation ──→ NSG2065Q �
 ## VENDETTA FC (VFC)
 
 A 30×30mm F7 Flight Controller targeting feature parity with commercial boards like the SpeedyBee F7 V3, with improvements in IMU performance and power isolation.
+
+<img width="2740" height="3508" alt="image" src="https://github.com/user-attachments/assets/a4c00723-5cfe-4306-91e9-201aed9892cd" />
+
+> Note: 6 Layer Board, GND (plane 2 and 5) plane photos not included.
 
 ### Specifications
 
@@ -172,6 +180,16 @@ Flash via USB DFU:
 3. Select STM32F7X2, flash
 
 Or wirelessly via ESP32-C3 over WiFi.
+
+Note: ESP is wired through SPI which won't work out of the box with Betaflight configuator as it only supports it via UART.
+
+For Betaflight make the following changes:
+
+PA6 > GPIO20
+
+PA7 > GPIO21
+
+transfer SWD testpoints to GPIO13 & 14
 
 ---
 
