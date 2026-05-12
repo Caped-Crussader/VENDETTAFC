@@ -5212,7 +5212,7 @@
 			)
 		)
 	)
-	(global_label "ESP_MISO"
+	(global_label "ESP_TX"
 		(shape input)
 		(at 317.5 139.7 0)
 		(fields_autoplaced yes)
@@ -5224,7 +5224,7 @@
 		)
 		(uuid "6af191c2-8c4e-4abd-bd60-455a4616af76")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 329.6775 139.7 0)
+			(at 327.2584 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5356,7 +5356,7 @@
 			)
 		)
 	)
-	(global_label "ESP_MOSI"
+	(global_label "ESP_RX"
 		(shape input)
 		(at 317.5 142.24 0)
 		(fields_autoplaced yes)
@@ -5368,7 +5368,7 @@
 		)
 		(uuid "846ce021-916a-4a49-9874-56b112892dd2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 329.6775 142.24 0)
+			(at 327.5608 142.24 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5644,30 +5644,6 @@
 			)
 		)
 	)
-	(global_label "ESP_CS"
-		(shape input)
-		(at 260.35 154.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9b89ca67-8d20-4f30-ab51-8269df698968")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 250.2892 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "SWDIO"
 		(shape input)
 		(at 369.57 158.75 180)
@@ -5788,7 +5764,7 @@
 			)
 		)
 	)
-	(global_label "ESP_SCK"
+	(global_label "ESP_EN"
 		(shape input)
 		(at 317.5 137.16 0)
 		(fields_autoplaced yes)
@@ -5800,7 +5776,7 @@
 		)
 		(uuid "cd4756fa-7bd8-4d85-8ae2-d2cb39321a37")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.8308 137.16 0)
+			(at 327.5608 137.16 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5825,6 +5801,30 @@
 		(uuid "cdfe97b9-e351-4df8-9690-97f53c73a724")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 252.7082 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "ESP_BOOT"
+		(shape input)
+		(at 260.35 154.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf563747-1c0b-48df-a3f9-7c9923452416")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.8701 154.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
