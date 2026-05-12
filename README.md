@@ -180,10 +180,15 @@ Flash via USB DFU:
 3. Select STM32F7X2, flash
 
 Or wirelessly via ESP32-C3 over WiFi.
+
 Note: ESP is wired through SPI which won't work out of the box with Betaflight configuator as it only supports it via UART.
+
 For Betaflight make the following changes:
+
 PA6 > GPIO20
+
 PA7 > GPIO21
+
 transfer SWD testpoints to GPIO13 & 14
 
 ---
