@@ -78,7 +78,7 @@ A 30×30mm F7 Flight Controller targeting feature parity with commercial boards 
 | IMU | ICM-42688-P (32kHz gyro, SPI) |
 | Barometer | BMP388 (I2C) |
 | Blackbox | W25N04KVZEIR (512MB NAND Flash, SPI) |
-| Wireless | ESP32-C3 (WiFi + BT via SPI) |
+| Wireless | ESP32-C3 (WiFi + BT via UART1) |
 | OSD | None (digital OSD via MSP DisplayPort) |
 | Firmware | Betaflight |
 | Motor outputs | 4× DShot (TIM2 CH1–CH4, PA0–PA3) |
@@ -105,7 +105,7 @@ LiPo (via ESC) ────→│ 9V BEC → 5V BEC → 3.3V x2  │
                     │                             │
                     │  STM32F722 ←─SPI─→ ICM-42688-P (IMU)
                     │             ←─SPI─→ W25N04KV (Flash)
-                    │             ←─SPI─→ ESP32-C3 (WiFi/BT)
+                    │             ←─UART1─→ ESP32-C3 (WiFi/BT)
                     │             ←─I2C─→ BMP388 (Baro)
                     │             ←─USB─→ USB-C
                     │             ──UART3/4──→ DJI Air Unit
@@ -179,17 +179,7 @@ Flash via USB DFU:
 2. Open Betaflight Configurator → Firmware Flasher
 3. Select STM32F7X2, flash
 
-Or wirelessly via ESP32-C3 over WiFi.
-
-Note: ESP is wired through SPI which won't work out of the box with Betaflight configuator as it only supports it via UART.
-
-For Betaflight make the following changes:
-
-PA6 > GPIO20
-
-PA7 > GPIO21
-
-transfer SWD testpoints to GPIO13 & 14
+Or wirelessly via ESP32-C3 over WiFi through the SpeedyBee App.
 
 ---
 
