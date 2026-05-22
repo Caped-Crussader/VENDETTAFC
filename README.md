@@ -1,4 +1,3 @@
-"Firmware STILL WORK IN PROGRESS ⚠️"
 
 # VENDETTA FPV Stack
 
