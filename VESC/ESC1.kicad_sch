@@ -6371,7 +6371,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "1K"
 			(at 264.16 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6649,7 +6649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75K"
+		(property "Value" "10K"
 			(at 264.16 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6835,7 +6835,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "1K"
 			(at 212.09 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7821,96 +7821,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+8V")
-		(at 109.22 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "77a2a587-5c35-467e-8a05-347b4b9e0286")
-		(property "Reference" "#PWR056"
-			(at 109.22 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+8V"
-			(at 109.22 114.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 109.22 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 109.22 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+8V\""
-			(at 109.22 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ae38e373-2bc0-44a3-a0fa-e6f1b6b76a60")
-		)
-		(instances
-			(project "VENDETTAESC"
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/7c9e156b-b536-46fa-851a-311dd633243a"
-					(reference "#PWR058")
-					(unit 1)
-				)
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c4194d8a-4081-4750-8aa5-45e80972e9ea"
-					(reference "#PWR056")
-					(unit 1)
-				)
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c6d0038e-73b1-4107-979d-7d477f3b42f0"
-					(reference "#PWR059")
-					(unit 1)
-				)
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
-					(reference "#PWR057")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 175.26 128.27 270)
 		(unit 1)
@@ -8475,7 +8385,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "1K"
 			(at 238.76 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9391,7 +9301,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75K"
+		(property "Value" "10K"
 			(at 212.09 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10311,6 +10221,96 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+8V")
+		(at 35.56 119.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d03dfa56-fa61-41d3-b4a2-3f5c09f0b1b7")
+		(property "Reference" "#PWR064"
+			(at 35.56 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+10V"
+			(at 33.02 114.554 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 35.56 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 35.56 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+8V\""
+			(at 35.56 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a224cd5-46d0-4ca2-a396-b9a994a3973f")
+		)
+		(instances
+			(project "VENDETTAESC"
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/7c9e156b-b536-46fa-851a-311dd633243a"
+					(reference "#PWR066")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c4194d8a-4081-4750-8aa5-45e80972e9ea"
+					(reference "#PWR064")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c6d0038e-73b1-4107-979d-7d477f3b42f0"
+					(reference "#PWR067")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 128.27 142.24 270)
 		(unit 1)
@@ -10397,6 +10397,96 @@
 				)
 				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
 					(reference "C64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+8V")
+		(at 109.22 119.38 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d23d65e2-0449-483a-bd09-60260d958aad")
+		(property "Reference" "#PWR056"
+			(at 109.22 123.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+10V"
+			(at 106.68 114.554 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+8V\""
+			(at 109.22 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7ef175ed-d370-4c59-a048-d1bd915f9c74")
+		)
+		(instances
+			(project "VENDETTAESC"
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/7c9e156b-b536-46fa-851a-311dd633243a"
+					(reference "#PWR058")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c4194d8a-4081-4750-8aa5-45e80972e9ea"
+					(reference "#PWR056")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c6d0038e-73b1-4107-979d-7d477f3b42f0"
+					(reference "#PWR059")
+					(unit 1)
+				)
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -10708,7 +10798,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "75K"
+		(property "Value" "10K"
 			(at 238.76 36.8299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11320,96 +11410,6 @@
 				)
 				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
 					(reference "C60")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+8V")
-		(at 35.56 119.38 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f158d1bf-a8aa-40a9-b27f-cef70f563ae8")
-		(property "Reference" "#PWR064"
-			(at 35.56 123.19 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+8V"
-			(at 35.56 114.3 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 35.56 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 35.56 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+8V\""
-			(at 35.56 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b72ffc53-758c-4f04-81f2-319a15e064db")
-		)
-		(instances
-			(project "VENDETTAESC"
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/7c9e156b-b536-46fa-851a-311dd633243a"
-					(reference "#PWR066")
-					(unit 1)
-				)
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c4194d8a-4081-4750-8aa5-45e80972e9ea"
-					(reference "#PWR064")
-					(unit 1)
-				)
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/c6d0038e-73b1-4107-979d-7d477f3b42f0"
-					(reference "#PWR067")
-					(unit 1)
-				)
-				(path "/62497189-72eb-441b-9043-ca0a95596c6f/f855ef8c-a86d-4f49-b472-4c306de56e33"
-					(reference "#PWR065")
 					(unit 1)
 				)
 			)
