@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AT7456E'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ICOF", "AT7456E" (!) = "", "SOP65P640X120-29N", "Small Outline Packages", "", "", "", "", "Video Character Overlay Chip (OSD)", "https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-AT7456E_C82351.pdf", "1.2 mm"
+END_PART
+
+END.

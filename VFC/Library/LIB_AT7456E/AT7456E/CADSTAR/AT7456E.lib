@@ -1,0 +1,18 @@
+.AT7456E :1 ;Video Character Overlay Chip (OSD)
+SOP65P640X120-29N
+*STM IC
+*NGS
+*PLB 1="N.C._1" 2="N.C._2" 3="DVDD" 4="DGND" 5="CLKIN" 6="XFB" 7="CLKOUT" 8="'CS'" 9="SDIN" 10="SCLK" 11="SDOUT" 12="LOS" 13="SYNC_IN" 14="N.C._3" 15="N.C._4" 16="N.C._5" 17="'VSYNC'" 18="'HSYNC'" 19="'RESET'" 20="AGND" 21="AVDD" 22="VIN" 23="PGND" 24="PVDD" 25="SAG" 26="VOUT" 27="N.C._6" 28="N.C._7" 29="THERMALPAD"
+*MXP 29
+*DFN AT7456E
+~!Manufacturer_Name (ICOF)
+~!Manufacturer_Part_Number (AT7456E)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://datasheet.lcsc.com/szlcsc/ZHONGKEWEI-AT7456E_C82351.pdf)
+~!Height (1.2mm)
+~!3D_Model (AT7456E)
+AT7456E
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 

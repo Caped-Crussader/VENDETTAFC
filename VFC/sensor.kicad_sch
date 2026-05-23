@@ -8,6 +8,274 @@
 		(comment 1 "Copyright (C) 2026 Caped-Crussader\nLicensed under CERN-OHL-S v2\nhttps://github.com/Caped-Crussader/VENDETTAFC")
 	)
 	(lib_symbols
+		(symbol "2450AT43B100E:2450AT43B100E"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "AT"
+				(at 2.5431 5.0861 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "2450AT43B100E"
+				(at 2.5475 -5.095 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "2450AT43B100E:ANTENNA_2450AT43B100E"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "2.4GHz Bluetooth, Wi-Fi, WLAN Chip RF Antenna 2.4GHz ~ 2.5GHz 1.3dBi Solder Surface Mount"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Johanson Technology"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/2450AT43B100E/Johanson/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "N/A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/2450AT43B100E/Johanson/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "2450AT43B100E"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Johanson Technology Inc."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "2450AT43B100E_0_0"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 1.27 5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "BMP388:BMP388"
 			(pin_names
 				(offset 1.016)
@@ -811,131 +1079,6 @@
 						)
 					)
 					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "CA-C03:CA-C03"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U8"
-				(at -5.08 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CA-C03_0_1"
-				(polyline
-					(pts
-						(xy -3.81 1.27) (xy -13.97 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.81 1.27) (xy 3.81 1.27) (xy 3.81 -1.27) (xy -13.97 -1.27) (xy -13.97 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "CA-C03_1_0"
-				(pin passive line
-					(at -19.05 0 0)
-					(length 5.08)
-					(name "IN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 8.89 0 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4489,7 +4632,7 @@
 	)
 	(text "Antenna\n"
 		(exclude_from_sim no)
-		(at 273.558 52.578 0)
+		(at 268.224 44.704 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4552,7 +4695,7 @@
 		(uuid "4008019b-800c-46f5-9302-ca8fb2b40bbc")
 	)
 	(junction
-		(at 359.41 214.63)
+		(at 342.9 214.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4622cfbf-5379-46dc-9456-da8c943adc92")
@@ -4624,12 +4767,6 @@
 		(uuid "7f477e39-20d3-4b39-91d2-33974122d9aa")
 	)
 	(junction
-		(at 257.81 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "86fc479d-2047-467e-b57e-c7f23d7d191f")
-	)
-	(junction
 		(at 347.98 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4654,12 +4791,6 @@
 		(uuid "a6d7f28f-9992-4914-a10b-a6f3d7e147bb")
 	)
 	(junction
-		(at 248.92 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af373b59-76ed-4054-8a55-38b06cfa99df")
-	)
-	(junction
 		(at 353.06 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4672,19 +4803,13 @@
 		(uuid "caa0a17e-8960-4367-b543-4efaa40b5542")
 	)
 	(junction
-		(at 241.3 110.49)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc7a733b-8bb0-44bd-b74c-83adbb36ac75")
-	)
-	(junction
 		(at 125.73 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4448416-3d79-4ba2-9cff-aacb7c4499c9")
 	)
 	(junction
-		(at 367.03 228.6)
+		(at 350.52 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7d06676-cda4-4e0c-9eac-4a7b85f33470")
@@ -4839,13 +4964,13 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "0b5c588b-df90-4bdc-b9b4-90614960a338")
 	)
 	(wire
 		(pts
-			(xy 367.03 228.6) (xy 367.03 219.71)
+			(xy 350.52 228.6) (xy 350.52 219.71)
 		)
 		(stroke
 			(width 0)
@@ -4899,7 +5024,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "15564c40-c4ef-43a7-90a4-d2ebf1789cbc")
 	)
@@ -5039,7 +5164,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "26e4bcf4-78aa-4ec0-b097-49f314fa55d9")
 	)
@@ -5079,7 +5204,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "29bfdc51-3da0-4d22-b4f6-51ea81194e9e")
 	)
@@ -5203,6 +5328,16 @@
 		)
 		(uuid "446ad218-6733-4f45-9a34-b2c92ffbec41")
 	)
+	(polyline
+		(pts
+			(xy 306.07 180.34) (xy 306.07 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44be20e0-3bbf-47f9-91fb-88227f94eee7")
+	)
 	(wire
 		(pts
 			(xy 330.2 92.71) (xy 330.2 90.17)
@@ -5259,7 +5394,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "4c69e4e6-4345-41dd-bf60-b24772fb0c8a")
 	)
@@ -5415,33 +5550,13 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 55.88) (xy 257.81 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "658e91d1-f75b-4506-aa07-583dc79fc824")
-	)
-	(wire
-		(pts
-			(xy 367.03 198.12) (xy 372.11 198.12)
+			(xy 350.52 198.12) (xy 355.6 198.12)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "670bae49-668b-44ba-828c-344f0d224354")
-	)
-	(wire
-		(pts
-			(xy 241.3 118.11) (xy 248.92 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "686e4b30-a60a-4f39-9f78-053eecf907c1")
 	)
 	(wire
 		(pts
@@ -5515,7 +5630,7 @@
 	)
 	(wire
 		(pts
-			(xy 347.98 214.63) (xy 350.52 214.63)
+			(xy 331.47 214.63) (xy 334.01 214.63)
 		)
 		(stroke
 			(width 0)
@@ -5529,7 +5644,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "767c1d57-25ce-43b2-b329-db1d54f61c77")
 	)
@@ -5549,7 +5664,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "78303755-545c-4f73-a55c-bac54966645e")
 	)
@@ -5579,13 +5694,13 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "81fcf481-f60b-4a22-a9db-23573d74ee3a")
 	)
 	(wire
 		(pts
-			(xy 257.81 110.49) (xy 270.51 110.49)
+			(xy 254 110.49) (xy 270.51 110.49)
 		)
 		(stroke
 			(width 0)
@@ -5619,7 +5734,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "82b0f294-50e3-43d9-9f5d-ec2fb0ea93c4")
 	)
@@ -5679,7 +5794,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "8671cadd-8151-4ed6-ae30-7b3037688895")
 	)
@@ -5749,7 +5864,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "8fad2713-1808-484c-9302-7697501ab6b3")
 	)
@@ -5805,7 +5920,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 110.49) (xy 246.38 110.49)
+			(xy 232.41 110.49) (xy 246.38 110.49)
 		)
 		(stroke
 			(width 0)
@@ -5849,7 +5964,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "a21c7e0d-a334-4873-99df-1585ba33c3af")
 	)
@@ -5875,23 +5990,13 @@
 	)
 	(wire
 		(pts
-			(xy 287.02 55.88) (xy 287.02 52.07)
+			(xy 275.59 58.42) (xy 279.4 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a7475bce-9032-46b7-98c9-23dc5e277248")
-	)
-	(wire
-		(pts
-			(xy 257.81 55.88) (xy 257.81 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a81b4420-de86-419d-bae2-50083c822ace")
 	)
 	(polyline
 		(pts
@@ -5955,17 +6060,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 110.49) (xy 257.81 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1e223ec-f612-4c53-b46f-0c9db0b15a6a")
-	)
-	(wire
-		(pts
-			(xy 359.41 227.33) (xy 359.41 228.6)
+			(xy 342.9 227.33) (xy 342.9 228.6)
 		)
 		(stroke
 			(width 0)
@@ -6049,13 +6144,13 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "c019d564-5052-4dbf-bb3c-9dfb174d4512")
 	)
 	(wire
 		(pts
-			(xy 358.14 214.63) (xy 359.41 214.63)
+			(xy 341.63 214.63) (xy 342.9 214.63)
 		)
 		(stroke
 			(width 0)
@@ -6099,7 +6194,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "c8dfd841-4bda-4166-b9c9-27ffd0102100")
 	)
@@ -6115,7 +6210,7 @@
 	)
 	(wire
 		(pts
-			(xy 359.41 214.63) (xy 359.41 219.71)
+			(xy 342.9 214.63) (xy 342.9 219.71)
 		)
 		(stroke
 			(width 0)
@@ -6149,7 +6244,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "d39e1333-5d76-4dbf-96c4-c67ca85000b0")
 	)
@@ -6179,7 +6274,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "d944c5e2-f2e3-44eb-a005-65a3bc428069")
 	)
@@ -6199,7 +6294,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "dae911b0-e089-4150-aace-c2d63a375978")
 	)
@@ -6225,16 +6320,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 118.11) (xy 257.81 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e481a5ef-c3a3-4aff-9c63-4567cb05854b")
-	)
-	(wire
-		(pts
 			(xy 116.84 167.64) (xy 125.73 167.64)
 		)
 		(stroke
@@ -6245,7 +6330,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 209.55) (xy 367.03 198.12)
+			(xy 350.52 209.55) (xy 350.52 198.12)
 		)
 		(stroke
 			(width 0)
@@ -6302,16 +6387,6 @@
 			(type default)
 		)
 		(uuid "ea40418c-9ac7-451a-b540-60b42a5f07f2")
-	)
-	(wire
-		(pts
-			(xy 232.41 110.49) (xy 241.3 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea4d77e7-278f-4130-a706-730c87b81562")
 	)
 	(wire
 		(pts
@@ -6385,7 +6460,7 @@
 	)
 	(wire
 		(pts
-			(xy 359.41 228.6) (xy 367.03 228.6)
+			(xy 342.9 228.6) (xy 350.52 228.6)
 		)
 		(stroke
 			(width 0)
@@ -6419,7 +6494,7 @@
 		)
 		(stroke
 			(width 0)
-			(type default)
+			(type dash)
 		)
 		(uuid "fe3111e4-2196-4a8f-8e63-0de5d6ee3b74")
 	)
@@ -6464,7 +6539,7 @@
 		(uuid "606c9b23-cf00-4d2b-a4aa-8dd1007fd325")
 	)
 	(label "ANT"
-		(at 287.02 52.07 0)
+		(at 279.4 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6577,7 +6652,7 @@
 	)
 	(global_label "BUZZ"
 		(shape input)
-		(at 347.98 214.63 180)
+		(at 331.47 214.63 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6587,7 +6662,7 @@
 		)
 		(uuid "2aa91c19-3101-440a-95a1-dfcbba614ce0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 339.9753 214.63 0)
+			(at 323.4653 214.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6769,7 +6844,7 @@
 	)
 	(global_label "BUZZER-"
 		(shape input)
-		(at 372.11 198.12 0)
+		(at 355.6 198.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6779,7 +6854,7 @@
 		)
 		(uuid "bd8cdd3a-2033-4ca1-8cbb-855f201ca5b3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 384.1061 198.12 0)
+			(at 367.5961 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7254,84 +7329,6 @@
 			(project "VENDETTAFC"
 				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
 					(reference "#PWR058")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 248.92 118.11 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0bf0d8a2-1ab6-461d-a702-06ca338f6255")
-		(property "Reference" "#PWR073"
-			(at 248.92 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 248.92 123.19 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 248.92 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 248.92 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 248.92 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "25b1e9c7-55e6-4ae3-a8bd-28b417f38c8a")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
-					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -7973,7 +7970,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:AO3400A")
-		(at 364.49 214.63 0)
+		(at 347.98 214.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7984,7 +7981,7 @@
 		(fields_autoplaced yes)
 		(uuid "27b7fbd2-6046-45a1-9836-9332b7bd4626")
 		(property "Reference" "Q2"
-			(at 370.84 213.3599 0)
+			(at 354.33 213.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7995,7 +7992,7 @@
 			)
 		)
 		(property "Value" "AO3400A"
-			(at 370.84 215.8999 0)
+			(at 354.33 215.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8006,7 +8003,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 369.57 216.535 0)
+			(at 353.06 216.535 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8019,7 +8016,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf"
-			(at 369.57 218.44 0)
+			(at 353.06 218.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8031,7 +8028,7 @@
 			)
 		)
 		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
-			(at 364.49 214.63 0)
+			(at 347.98 214.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8211,86 +8208,6 @@
 			(project "VENDETTAFC"
 				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
 					(reference "#PWR064")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "CA-C03:CA-C03")
-		(at 267.97 55.88 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ac6877f-79e8-45ba-8779-9bc2dd970b74")
-		(property "Reference" "U8"
-			(at 273.05 59.69 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 267.97 55.88 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "crossair-ca-c03-antenna-1.snapshot.1:CA-C03"
-			(at 267.97 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 267.97 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 267.97 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8ef8407c-4c08-451a-b245-cad44b68a0e9")
-		)
-		(pin "2"
-			(uuid "416d2012-5b08-4b7e-9dba-8f228f9b0d11")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
-					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -9030,88 +8947,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 241.3 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4dc8684c-da8b-4b43-ae33-5b010b63292c")
-		(property "Reference" "C31"
-			(at 245.11 113.0299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1pF"
-			(at 245.11 115.5699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 242.2652 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 241.3 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 241.3 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "842a736f-33b2-4604-a8dc-1798b1936410")
-		)
-		(pin "2"
-			(uuid "1ebfc877-3873-4206-9408-41eb5f7f5467")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
-					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 200.66 219.71 90)
 		(unit 1)
@@ -9355,88 +9190,6 @@
 			(project "VENDETTAFC"
 				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 257.81 114.3 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5bada92d-5ad0-42a2-b58f-7449733c41b6")
-		(property "Reference" "C30"
-			(at 261.62 113.0299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1pF"
-			(at 261.62 115.5699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 258.7752 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 257.81 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8e3b75da-d4fa-4553-9f60-42dcb269bbc8")
-		)
-		(pin "2"
-			(uuid "39587103-5f74-49bd-a465-1deb56f711cc")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
-					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -10488,7 +10241,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 354.33 214.63 270)
+		(at 337.82 214.63 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10498,7 +10251,7 @@
 		(dnp no)
 		(uuid "7d659e7f-1663-48f7-8fd8-fe3ab77647fa")
 		(property "Reference" "R34"
-			(at 354.33 212.344 90)
+			(at 337.82 212.344 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10508,7 +10261,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 354.33 216.916 90)
+			(at 337.82 216.916 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10518,7 +10271,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 354.33 212.852 90)
+			(at 337.82 212.852 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10529,7 +10282,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 354.33 214.63 0)
+			(at 337.82 214.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10540,7 +10293,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 354.33 214.63 0)
+			(at 337.82 214.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11244,7 +10997,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 367.03 228.6 0)
+		(at 350.52 228.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11255,7 +11008,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4160c82-56d0-4e4b-ae0d-7e4848f789c9")
 		(property "Reference" "#PWR087"
-			(at 367.03 234.95 0)
+			(at 350.52 234.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11266,7 +11019,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 367.03 233.68 0)
+			(at 350.52 233.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11276,7 +11029,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 367.03 228.6 0)
+			(at 350.52 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11287,7 +11040,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 367.03 228.6 0)
+			(at 350.52 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11298,7 +11051,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 367.03 228.6 0)
+			(at 350.52 228.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11479,6 +11232,205 @@
 			(project "VENDETTAFC"
 				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
 					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "2450AT43B100E:2450AT43B100E")
+		(at 267.97 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a831981c-ec85-488f-9e8c-7f7c2299e109")
+		(property "Reference" "AT1"
+			(at 268.605 48.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2450AT43B100E"
+			(at 268.605 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "2450AT43B100E:ANTENNA_2450AT43B100E"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "2.4GHz Bluetooth, Wi-Fi, WLAN Chip RF Antenna 2.4GHz ~ 2.5GHz 1.3dBi Solder Surface Mount"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Johanson Technology"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/2450AT43B100E/Johanson/view-part/?ref=eda"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "MANUFACTURER RECOMMENDATIONS"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "N/A"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/2450AT43B100E/Johanson/view-part/?ref=snap"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "2450AT43B100E"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Johanson Technology Inc."
+			(at 267.97 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "d75f5ebd-1ef9-4ab9-8cda-15a49c00d189")
+		)
+		(instances
+			(project "VENDETTAFC"
+				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
+					(reference "AT1")
 					(unit 1)
 				)
 			)
@@ -13426,84 +13378,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 257.81 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e4a8e37c-986f-4d35-9bee-62b50fd2ea38")
-		(property "Reference" "#PWR072"
-			(at 257.81 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 257.81 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 257.81 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 257.81 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 257.81 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5d7537b5-db8d-4357-865d-83aa845c0927")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/0cbc1a1c-a578-4001-92a8-060ef55501c3"
-					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 132.08 48.26 0)
 		(unit 1)
 		(body_style 1)
@@ -13660,7 +13534,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 359.41 223.52 0)
+		(at 342.9 223.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13670,7 +13544,7 @@
 		(dnp no)
 		(uuid "f1c1b107-d71e-42d1-a5b7-3bdb7702bf17")
 		(property "Reference" "R35"
-			(at 357.124 223.52 90)
+			(at 340.614 223.52 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13680,7 +13554,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 361.696 223.52 90)
+			(at 345.186 223.52 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13690,7 +13564,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 357.632 223.52 90)
+			(at 341.122 223.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13701,7 +13575,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 359.41 223.52 0)
+			(at 342.9 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13712,7 +13586,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 359.41 223.52 0)
+			(at 342.9 223.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13759,7 +13633,7 @@
 				)
 			)
 		)
-		(property "Value" "2nH"
+		(property "Value" "1.8nH"
 			(at 250.19 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)

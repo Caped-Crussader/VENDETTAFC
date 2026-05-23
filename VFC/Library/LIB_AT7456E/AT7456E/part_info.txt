@@ -5,5 +5,5 @@ PackageCategory=Small Outline Packages
 PinCount=29
 Version=1.1
 Released=2019-07-04 10:03:23
-Downloaded=2026-05-06 12:35:57
+Downloaded=2026-05-23 10:46:03
 3D=Y
