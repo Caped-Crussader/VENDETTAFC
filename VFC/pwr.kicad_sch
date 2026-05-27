@@ -3227,7 +3227,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SMBJ30A:SMBJ30A"
+		(symbol "SMAJ5.0A:SMAJ5.0A"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3247,7 +3247,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" "SMBJ30A"
+			(property "Value" "SMAJ5.0A"
 				(at -5.0854 -4.9611 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3258,7 +3258,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SMBJ30A:DIOM4336X265N"
+			(property "Footprint" "SMAJ5.0A:DIOM4325X250N"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3281,7 +3281,7 @@
 					)
 				)
 			)
-			(property "Description" "600W, 30V, Unidirectional, TVS"
+			(property "Description" "400W, 5V, Unidirectional, TVS"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3305,7 +3305,7 @@
 					(justify bottom)
 				)
 			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "2.65 mm"
+			(property "MAXIMUM_PACKAGE_HEIGHT" "2.5 mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3317,7 +3317,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Package" "SMD-2 Taiwan Semiconductor"
+			(property "Package" "SMA-2 Taiwan Semiconductor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3341,7 +3341,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Check_prices" "https://www.snapeda.com/parts/SMBJ30A/taiwan/view-part/?ref=eda"
+			(property "Check_prices" "https://www.snapeda.com/parts/SMAJ5.0A/taiwan/view-part/?ref=eda"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3365,7 +3365,7 @@
 					(justify bottom)
 				)
 			)
-			(property "PARTREV" "F2102"
+			(property "PARTREV" "S2102"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3377,7 +3377,7 @@
 					(justify bottom)
 				)
 			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SMBJ30A/taiwan/view-part/?ref=snap"
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SMAJ5.0A/taiwan/view-part/?ref=snap"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3389,19 +3389,7 @@
 					(justify bottom)
 				)
 			)
-			(property "MP" "SMBJ30A"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2759386&manufacturer=Taiwan Semiconductor&part_name=SMBJ30A&search_term=smbj30a"
+			(property "MP" "SMAJ5.0A"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3437,7 +3425,7 @@
 					(justify bottom)
 				)
 			)
-			(symbol "SMBJ30A_0_0"
+			(symbol "SMAJ5.0A_0_0"
 				(polyline
 					(pts
 						(xy -1.27 0) (xy -1.27 1.27)
@@ -7611,6 +7599,222 @@
 		)
 	)
 	(symbol
+		(lib_id "SMAJ5.0A:SMAJ5.0A")
+		(at 179.07 67.31 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a4acb99-f7c9-4c46-8974-537ce0bb8ec1")
+		(property "Reference" "D5"
+			(at 181.61 66.0399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMAJ5.0A"
+			(at 181.61 68.5799 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SMAJ5.0A:DIOM4325X250N"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "400W, 5V, Unidirectional, TVS"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Taiwan Semiconductor"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "2.5 mm"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "SMA-2 Taiwan Semiconductor"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SMAJ5.0A/taiwan/view-part/?ref=eda"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "S2102"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SMAJ5.0A/taiwan/view-part/?ref=snap"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "SMAJ5.0A"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Taiwan Semiconductor"
+			(at 179.07 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "A"
+			(uuid "35769190-0c02-4184-98fe-fadafceb6a11")
+		)
+		(pin "C"
+			(uuid "fe5e6f4a-7abe-4a8b-b449-435eccf4e4ee")
+		)
+		(instances
+			(project "VENDETTAFC"
+				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/f4654729-a114-4964-8f4c-68feea8f16a2"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 241.3 195.58 0)
 		(unit 1)
@@ -8334,233 +8538,6 @@
 			(project "VENDETTAFC"
 				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/f4654729-a114-4964-8f4c-68feea8f16a2"
 					(reference "FL2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SMBJ30A:SMBJ30A")
-		(at 179.07 67.31 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2cba79d7-9505-4e47-b185-bb7c0f7e680f")
-		(property "Reference" "D5"
-			(at 181.61 66.0399 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMBJ30A"
-			(at 181.356 68.326 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SMBJ30A:DIOM4336X265N"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "600W, 30V, Unidirectional, TVS"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Taiwan Semiconductor"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "2.65 mm"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "SMD-2 Taiwan Semiconductor"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/SMBJ30A/taiwan/view-part/?ref=eda"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "F2102"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SMBJ30A/taiwan/view-part/?ref=snap"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "SMBJ30A"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2759386&manufacturer=Taiwan Semiconductor&part_name=SMBJ30A&search_term=smbj30a"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Taiwan Semiconductor"
-			(at 179.07 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "C"
-			(uuid "8a7129a9-e082-43d2-a515-5d45bab726b7")
-		)
-		(pin "A"
-			(uuid "c3089f69-a32c-406c-964b-03b4e45fc887")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/f4654729-a114-4964-8f4c-68feea8f16a2"
-					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -12531,7 +12508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC404020S"
 			(at 137.16 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -12553,7 +12530,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FAUKU GXTC0420-100-MT"
 			(at 137.16 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -13908,7 +13885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FTC404020S"
 			(at 311.15 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -13930,7 +13907,7 @@
 				)
 			)
 		)
-		(property "Description" "Inductor"
+		(property "Description" "FAUKU GXTC0420-100-MT"
 			(at 311.15 163.83 0)
 			(hide yes)
 			(show_name no)

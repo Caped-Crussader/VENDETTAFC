@@ -6698,31 +6698,7 @@
 			)
 		)
 	)
-	(global_label "FLS_MISO"
-		(shape input)
-		(at 111.76 149.86 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4387c4d4-6050-44ab-818c-cd821441bfe7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.6352 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "FLS_MOSI"
+	(global_label "FLS{slash}OSD_MISO"
 		(shape input)
 		(at 111.76 147.32 0)
 		(fields_autoplaced yes)
@@ -6732,9 +6708,9 @@
 			)
 			(justify left)
 		)
-		(uuid "574f6f9e-c63d-45b6-8e9e-f0cc36fbff07")
+		(uuid "484df9ae-b7ab-4740-8fd3-cfeab56e3081")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.6352 147.32 0)
+			(at 128.7757 147.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6807,6 +6783,54 @@
 		(uuid "7fbcffeb-f325-4c05-b865-be081543428d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 43.5815 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "FLS{slash}OSD_MOSI"
+		(shape input)
+		(at 111.76 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "904476f9-9fa6-4dfb-abf8-8cd440d4e8b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 128.7757 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "FLS{slash}OSD_SCK"
+		(shape input)
+		(at 53.34 149.86 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0e21166-4c3c-47ee-bcba-ec6660a28a3a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 37.171 149.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6983,30 +7007,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "FLS_SCK"
-		(shape input)
-		(at 53.34 149.86 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f9b98115-2933-4fdf-97d1-de91d4e8037a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 42.3115 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
