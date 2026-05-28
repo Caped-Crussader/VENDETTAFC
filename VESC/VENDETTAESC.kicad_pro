@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 5.0
+          "min_clearance": 1.0
         }
       },
       "diff_pair_dimensions": [
@@ -130,7 +130,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.2032,
+        "min_clearance": 0.21,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
@@ -751,7 +751,7 @@
         "uuid": "62497189-72eb-441b-9043-ca0a95596c6f"
       }
     ],
-    "used_designators": "#PWR109,L1-2,R77",
+    "used_designators": "R78-101,C75-98",
     "variants": []
   },
   "sheets": [
