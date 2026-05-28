@@ -4199,6 +4199,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 24.13) (xy 128.27 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26aae783-e26b-4b6b-bebe-311677a44a67")
+	)
+	(wire
+		(pts
 			(xy 48.26 92.71) (xy 48.26 95.25)
 		)
 		(stroke
@@ -5019,6 +5029,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 22.86) (xy 143.51 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba51755b-d4d3-4c14-a191-dc7fc8b7fe05")
+	)
+	(wire
+		(pts
 			(xy 101.6 73.66) (xy 99.06 73.66)
 		)
 		(stroke
@@ -5086,6 +5106,16 @@
 			(type default)
 		)
 		(uuid "c59fb016-c38c-4947-976f-72f2460983b5")
+	)
+	(wire
+		(pts
+			(xy 143.51 24.13) (xy 135.89 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c988d42b-955a-475a-b53e-5d7a2c974d1a")
 	)
 	(wire
 		(pts
@@ -5700,6 +5730,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "TEL"
+		(shape input)
+		(at 124.46 24.13 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c878dbbf-ff38-46fd-8719-821a5477245a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 118.3301 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -8186,6 +8240,84 @@
 			(project "VENDETTAESC"
 				(path "/62497189-72eb-441b-9043-ca0a95596c6f"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 143.51 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e7f9b63-ea8d-4656-b016-b937692f638f")
+		(property "Reference" "#PWR0109"
+			(at 143.51 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 143.51 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 143.51 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 143.51 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0232b1bd-7f1d-422d-9264-c68b201c3456")
+		)
+		(instances
+			(project "VENDETTAESC"
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f"
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -11384,6 +11516,86 @@
 			(project "VENDETTAESC"
 				(path "/62497189-72eb-441b-9043-ca0a95596c6f"
 					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 132.08 24.13 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf6d7d83-3122-4501-b680-d37743f4f4c4")
+		(property "Reference" "R77"
+			(at 132.08 17.78 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10K"
+			(at 132.08 20.32 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 132.08 25.908 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 132.08 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "52092e10-efd2-47d0-b768-9cf55ea5516e")
+		)
+		(pin "2"
+			(uuid "9db7f891-5a11-490f-8856-f57ddf292b9f")
+		)
+		(instances
+			(project "VENDETTAESC"
+				(path "/62497189-72eb-441b-9043-ca0a95596c6f"
+					(reference "R77")
 					(unit 1)
 				)
 			)

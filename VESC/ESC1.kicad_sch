@@ -4207,10 +4207,6 @@
 		(uuid "639c14e2-727e-4467-95c3-dc6d6dac8c26")
 	)
 	(no_connect
-		(at 85.09 50.8)
-		(uuid "6beb5024-f9bc-4daf-8866-79a8a36dbc1b")
-	)
-	(no_connect
 		(at 151.13 35.56)
 		(uuid "9ba1e610-1119-409f-b131-82f0405c2d60")
 	)
@@ -5837,6 +5833,30 @@
 			(justify left bottom)
 		)
 		(uuid "fe7ddee6-668c-46eb-adf2-08df49b0b154")
+	)
+	(global_label "TEL"
+		(shape input)
+		(at 85.09 50.8 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ec3a2db5-9bde-4aca-b674-f81b61971d7a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.9601 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(hierarchical_label "B"
 		(shape input)
