@@ -24,7 +24,8 @@ The VENDETTA stack consists of two boards designed to work together as a matched
 
 A 30×30mm 4-in-1 ESC (25A x 4) designed for 3–6S FPV multirotors.
 
-<img width="2631" height="3428" alt="images" src="https://github.com/user-attachments/assets/831620c5-2d64-482b-baf8-a0a63fbee630" />
+<img width="2526" height="3451" alt="imagev2" src="https://github.com/user-attachments/assets/bde25ee8-3351-4142-8fb1-18407447f4bf" />
+
 
 > Note: 6 Layer Board, GND (plane 2 and 5) plane photos not included.
 
