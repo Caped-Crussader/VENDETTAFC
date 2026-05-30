@@ -66,7 +66,8 @@ AT32F421 ──→ DShot (from FC) ──→ PWM generation ──→ NSG2065Q �
 
 A 30×30mm F7 Flight Controller targeting feature parity with commercial boards like the SpeedyBee F7 V3, with improvements in IMU performance and power isolation.
 
-<img width="2740" height="3508" alt="image" src="https://github.com/user-attachments/assets/a4c00723-5cfe-4306-91e9-201aed9892cd" />
+<img width="2763" height="3492" alt="imagev2" src="https://github.com/user-attachments/assets/044c504c-7cdd-4e0b-b641-fed1b171914d" />
+
 
 > Note: 6 Layer Board, GND (plane 2 and 5) plane photos not included.
 
