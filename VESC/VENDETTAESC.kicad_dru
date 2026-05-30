@@ -5,11 +5,11 @@
 )
 
 (rule "relaxed_clearance"
-   (constraint clearance (min 0.1mm))
+   (constraint clearance (min 0.1016mm))
 )
 
 (rule "pad_clearance"
-   (constraint clearance (min 0.1mm))
+   (constraint clearance (min 0.1016mm))
    (condition "A.Type == 'Pad' && B.Type == 'Pad'")
 )
 
