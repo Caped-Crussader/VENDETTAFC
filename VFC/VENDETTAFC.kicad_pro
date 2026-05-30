@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.1
         }
       },
       "diff_pair_dimensions": [
@@ -197,6 +197,7 @@
         0.0,
         0.2,
         0.25,
+        0.3,
         0.36,
         0.4,
         0.45,
@@ -834,7 +835,7 @@
         "uuid": "9ae0bade-d999-4f08-aa3a-8f8795024d1d"
       }
     ],
-    "used_designators": "J14",
+    "used_designators": "J14,C45-50,#PWR97-98",
     "variants": []
   },
   "sheets": [

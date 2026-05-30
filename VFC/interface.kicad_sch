@@ -9752,7 +9752,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "22uF"
 			(at 105.41 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9763,7 +9763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 102.5652 104.14 0)
 			(hide yes)
 			(show_name no)
