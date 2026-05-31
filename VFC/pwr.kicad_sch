@@ -8630,6 +8630,103 @@
 		)
 	)
 	(symbol
+		(lib_id "Power_Protection:USBLC6-2SC6")
+		(at 114.3 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "290f75c9-20d1-4afc-9af8-77a61600d1fd")
+		(property "Reference" "U10"
+			(at 115.9511 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "USBLC6-2SC6"
+			(at 115.9511 63.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+			(at 115.57 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
+			(at 115.57 76.835 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
+			(at 114.3 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a0ced730-fbe6-4070-ab5c-092203740a67")
+		)
+		(pin "4"
+			(uuid "f99207f7-4071-465b-954a-b03b2e8a9648")
+		)
+		(pin "3"
+			(uuid "fcac87e3-31b3-4e85-aeab-2f58e229445d")
+		)
+		(pin "6"
+			(uuid "edde62b2-a950-4a7b-afcc-c402f18c4300")
+		)
+		(pin "5"
+			(uuid "1225273b-9fa0-433c-bfdb-592ddf8e1c0e")
+		)
+		(pin "2"
+			(uuid "78da404a-d7c3-40aa-b382-5ffdb15ced1c")
+		)
+		(instances
+			(project "VENDETTAFC"
+				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/f4654729-a114-4964-8f4c-68feea8f16a2"
+					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "BLM18PG221SN1D:BLM18PG221SN1D")
 		(at 228.6 240.03 0)
 		(unit 1)
@@ -10962,103 +11059,6 @@
 			(project "VENDETTAFC"
 				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/f4654729-a114-4964-8f4c-68feea8f16a2"
 					(reference "C49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Power_Protection:USBLC6-2SC6")
-		(at 114.3 68.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "78ef8160-343d-4f83-a48a-8921cf85a7ba")
-		(property "Reference" "U10"
-			(at 115.9511 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "USBLC6-2SC6"
-			(at 115.9511 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 115.57 74.93 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 115.57 76.835 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
-			(at 114.3 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "ce8700ef-f533-496b-aec8-4c9cb33807d4")
-		)
-		(pin "3"
-			(uuid "9e615199-8240-4dde-84f8-da9436174986")
-		)
-		(pin "6"
-			(uuid "ebe90515-399a-4796-9b0f-dd4e6d335bdb")
-		)
-		(pin "4"
-			(uuid "36f6eeca-f955-43c2-b287-0e9f3271d614")
-		)
-		(pin "1"
-			(uuid "dfe248c3-444e-4a04-88af-9e4306a7aaff")
-		)
-		(pin "2"
-			(uuid "15ee32d8-0783-4efc-a306-30c340b39aa8")
-		)
-		(instances
-			(project "VENDETTAFC"
-				(path "/9ae0bade-d999-4f08-aa3a-8f8795024d1d/f4654729-a114-4964-8f4c-68feea8f16a2"
-					(reference "U10")
 					(unit 1)
 				)
 			)
