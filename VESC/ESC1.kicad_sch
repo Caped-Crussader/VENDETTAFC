@@ -6265,7 +6265,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 40.64 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -6276,7 +6276,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 40.64 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
 			(at 40.64 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -6542,7 +6586,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=Q1ULBABXElkKU1YAElAIU1IEQVRcAVZQRFIIVl0HFVIxVlNRQFZaU1NRQFZfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdXlBVR1RXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVlaX1dVQ08GEwkK"
 			(at 228.6 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -6554,7 +6598,51 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V N-Channel Power MOSFET"
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C22466709.html?s_z=n_q_C22466709&globalKeyword=C22466709"
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SP40N03GNJ"
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466709"
+			(at 223.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Siliup"
 			(at 223.52 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -6640,7 +6728,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C106235.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 261.62 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6651,7 +6739,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 261.62 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C106235.html?spm=wm.fly.bg.0.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 261.62 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402FR-071KL"
+			(at 261.62 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 261.62 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 261.62 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -6732,7 +6864,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 60.96 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6743,8 +6875,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 60.96 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 60.96 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 60.96 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 60.96 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 60.96 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6824,7 +7000,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25083.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 214.63 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -6835,8 +7011,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 214.63 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25083.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 214.63 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF150JTCE"
+			(at 214.63 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25083"
+			(at 214.63 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 214.63 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6918,7 +7138,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25169.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 234.95 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6929,7 +7149,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 234.95 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25169.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 234.95 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGJ047JTCE"
+			(at 234.95 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25169"
+			(at 234.95 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
 			(at 234.95 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7012,7 +7276,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C7209937.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 274.32 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7023,7 +7287,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 274.32 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C7209937.html?spm=wm.fly.bg.2.xh___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 274.32 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "AC0402KRX7R0BB221"
+			(at 274.32 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7209937"
+			(at 274.32 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 274.32 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7106,7 +7414,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 261.62 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7117,7 +7425,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 261.62 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 261.62 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 261.62 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 261.62 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 261.62 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7198,7 +7550,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 218.44 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7209,8 +7561,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 218.44 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 218.44 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 218.44 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 218.44 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 218.44 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7292,7 +7688,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C106235.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 209.55 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7303,7 +7699,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 209.55 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C106235.html?spm=wm.fly.bg.0.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 209.55 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402FR-071KL"
+			(at 209.55 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 209.55 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 209.55 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -7386,7 +7826,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 67.31 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -7397,7 +7837,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 67.31 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 67.31 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 67.31 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 67.31 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
 			(at 67.31 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -7567,7 +8051,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25152.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.6.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 165.1 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7578,8 +8062,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 165.1 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25152.html?spm=wm.fly.bg.6.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 165.1 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGJ0220TCE"
+			(at 165.1 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25152"
+			(at 165.1 43.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 165.1 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7931,7 +8459,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C29266.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 36.83 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7942,7 +8470,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 36.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C29266.html?spm=wm.fly.bg.0.xh___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 36.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL05A105KO5NNNC"
+			(at 36.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C29266"
+			(at 36.83 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 36.83 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8115,7 +8687,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 26.67 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8126,7 +8698,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 26.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 26.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 26.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 26.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
 			(at 26.67 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -8298,7 +8914,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25083.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 175.26 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -8309,8 +8925,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 175.26 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25083.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 175.26 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF150JTCE"
+			(at 175.26 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25083"
+			(at 175.26 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 175.26 128.27 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8390,7 +9050,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25083.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 254 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8401,8 +9061,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 254 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25083.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 254 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF150JTCE"
+			(at 254 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25083"
+			(at 254 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 254 144.78 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8483,7 +9187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/C41414478.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C41414478.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdUFNfQVNcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQFNXUVZWR08GEwkK"
 			(at 87.884 148.463 0)
 			(hide yes)
 			(show_name no)
@@ -8495,7 +9199,7 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Integrated BSD Three-Phase Half Bridge MOSFET/IGBT Gate Driver"
 			(at 90.17 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8507,6 +9211,39 @@
 			)
 		)
 		(property "LCSC" "C41414478"
+			(at 90.17 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C41414478.html?s_z=n_q_C41414478&globalKeyword=C41414478"
+			(at 90.17 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "NSG2065Q"
+			(at 90.17 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "WXNSIC"
 			(at 90.17 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -8658,7 +9395,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C19666.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 35.56 127 0)
 			(hide yes)
 			(show_name no)
@@ -8669,7 +9406,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0603"
+			(at 35.56 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C19666.html?spm=wm.fly.bg.0.xh___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 35.56 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10A475KO8NNNC"
+			(at 35.56 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19666"
+			(at 35.56 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Samsung Electro-Mechanics"
 			(at 35.56 127 0)
 			(hide yes)
 			(show_name no)
@@ -8842,7 +9623,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C106235.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 236.22 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8853,7 +9634,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 236.22 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C106235.html?spm=wm.fly.bg.0.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 236.22 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402FR-071KL"
+			(at 236.22 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 236.22 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 236.22 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8934,7 +9759,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25083.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 254 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -8945,8 +9770,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 254 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25083.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 254 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF150JTCE"
+			(at 254 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25083"
+			(at 254 129.54 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 254 129.54 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9208,7 +10077,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 166.37 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -9221,6 +10090,50 @@
 		)
 		(property "Description" "test point"
 			(at 166.37 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 166.37 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 166.37 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "-"
+			(at 166.37 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "-"
+			(at 166.37 49.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9299,7 +10212,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -9310,7 +10223,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 48.26 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 48.26 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 48.26 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 48.26 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
 			(at 48.26 127 0)
 			(hide yes)
 			(show_name no)
@@ -9395,7 +10352,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=Q1ULBABXElkKU1YAElAIU1IEQVRcAVZQRFIIVl0HFVIxVlNRQFZaU1NRQFZfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdXlBVR1RXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVlaX1dVQ08GEwkK"
 			(at 267.97 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -9407,7 +10364,51 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V N-Channel Power MOSFET"
+			(at 262.89 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C22466709.html?s_z=n_q_C22466709&globalKeyword=C22466709"
+			(at 262.89 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SP40N03GNJ"
+			(at 262.89 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466709"
+			(at 262.89 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Siliup"
 			(at 262.89 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9584,7 +10585,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25169.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 195.58 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9595,7 +10596,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 195.58 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25169.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 195.58 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGJ047JTCE"
+			(at 195.58 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25169"
+			(at 195.58 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
 			(at 195.58 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9677,7 +10722,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "AT32F421G8U7"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C2765098.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdUlxUQVNcVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 85.09 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9689,7 +10734,51 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ARM 32-bit Cortex-M4 microcontroller"
+			(at 85.09 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C2765098.html?s_z=s_p_AT32F421G8U7&spm=wm.fly.bg.0.xh&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdUlxUQVNcVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 85.09 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "AT32F421G8U7"
+			(at 85.09 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2765098"
+			(at 85.09 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "ARTERY"
 			(at 85.09 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -9853,7 +10942,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25169.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 274.32 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9864,7 +10953,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 274.32 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25169.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 274.32 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGJ047JTCE"
+			(at 274.32 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25169"
+			(at 274.32 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
 			(at 274.32 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -9945,7 +11078,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25083.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 175.26 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -9956,8 +11089,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 175.26 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25083.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 175.26 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF150JTCE"
+			(at 175.26 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25083"
+			(at 175.26 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 175.26 143.51 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10039,7 +11216,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C7209937.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 195.58 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10050,7 +11227,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 195.58 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C7209937.html?spm=wm.fly.bg.2.xh___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 195.58 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "AC0402KRX7R0BB221"
+			(at 195.58 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7209937"
+			(at 195.58 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 195.58 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10133,7 +11354,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 209.55 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10144,7 +11365,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 209.55 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 209.55 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 209.55 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 209.55 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 209.55 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -10225,7 +11490,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C25083.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.1.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 214.63 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -10236,8 +11501,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 214.63 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C25083.html?spm=wm.fly.bg.1.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 214.63 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF150JTCE"
+			(at 214.63 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C25083"
+			(at 214.63 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "UNI-ROYAL"
+			(at 214.63 128.27 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10320,7 +11629,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=Q1ULBABXElkKU1YAElAIU1IEQVRcAVZQRFIIVl0HFVIxVlNRQFZaU1NRQFZfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdXlBVR1RXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVlaX1dVQ08GEwkK"
 			(at 267.97 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -10332,7 +11641,51 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V N-Channel Power MOSFET"
+			(at 262.89 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C22466709.html?s_z=n_q_C22466709&globalKeyword=C22466709"
+			(at 262.89 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SP40N03GNJ"
+			(at 262.89 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466709"
+			(at 262.89 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Siliup"
 			(at 262.89 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -10416,7 +11769,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C106235.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 81.28 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10427,8 +11780,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 81.28 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C106235.html?spm=wm.fly.bg.0.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 81.28 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402FR-071KL"
+			(at 81.28 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C106235"
+			(at 81.28 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 81.28 33.02 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10692,7 +12089,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=Q1ULBABXElkKU1YAElAIU1IEQVRcAVZQRFIIVl0HFVIxVlNRQFZaU1NRQFZfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdXlBVR1RXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVlaX1dVQ08GEwkK"
 			(at 228.6 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -10704,7 +12101,51 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V N-Channel Power MOSFET"
+			(at 223.52 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C22466709.html?s_z=n_q_C22466709&globalKeyword=C22466709"
+			(at 223.52 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SP40N03GNJ"
+			(at 223.52 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466709"
+			(at 223.52 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Siliup"
 			(at 223.52 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -10878,7 +12319,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 245.11 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -10889,8 +12330,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 245.11 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 245.11 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 245.11 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 245.11 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 245.11 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10974,7 +12459,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=Q1ULBABXElkKU1YAElAIU1IEQVRcAVZQRFIIVl0HFVIxVlNRQFZaU1NRQFZfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdXlBVR1RXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVlaX1dVQ08GEwkK"
 			(at 189.23 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -10986,7 +12471,51 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V N-Channel Power MOSFET"
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C22466709.html?s_z=n_q_C22466709&globalKeyword=C22466709"
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SP40N03GNJ"
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466709"
+			(at 184.15 143.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Siliup"
 			(at 184.15 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -11160,7 +12689,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 128.27 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -11171,8 +12700,52 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
 			(at 128.27 142.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 128.27 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 128.27 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 128.27 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
+			(at 128.27 142.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11344,7 +12917,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "-"
 			(at 166.37 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -11357,6 +12930,50 @@
 		)
 		(property "Description" "test point"
 			(at 166.37 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "-"
+			(at 166.37 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "-"
+			(at 166.37 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "-"
+			(at 166.37 54.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "-"
+			(at 166.37 54.61 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11437,7 +13054,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs___wm.ssy.bg.0.xh&lcsc_vid=Q1ULBABXElkKU1YAElAIU1IEQVRcAVZQRFIIVl0HFVIxVlNRQFZaU1NRQFZfVjsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C22466709.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdXlBVR1RXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVlaX1dVQ08GEwkK"
 			(at 189.23 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11449,7 +13066,51 @@
 				(justify left)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "40V N-Channel Power MOSFET"
+			(at 184.15 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C22466709.html?s_z=n_q_C22466709&globalKeyword=C22466709"
+			(at 184.15 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "SP40N03GNJ"
+			(at 184.15 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C22466709"
+			(at 184.15 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "Siliup"
 			(at 184.15 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11532,7 +13193,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C124089.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.xh&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdUVRUQVZcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktVR08GEwkK"
 			(at 50.8 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -11545,6 +13206,50 @@
 		)
 		(property "Description" "Ferrite bead"
 			(at 50.8 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C124089.html?s_z=n_q_t_ferrite%2520bead&spm=wm.fly.bg.0.xh___wm.ssy.tc.0.tz&lcsc_vid=R1lcUVNTTlAMX1ZfQlFdVFNSFlhYVwBUQlAMUFRfRAMxVlNeR1NdUVRUQVZcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktVR08GEwkK"
+			(at 50.8 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "CBW100505U101T"
+			(at 50.8 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C124089"
+			(at 50.8 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "FH"
+			(at 50.8 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11626,7 +13331,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 236.22 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11637,7 +13342,51 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
+			(at 236.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 236.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 236.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 236.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 236.22 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -11720,7 +13469,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C7209937.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.2.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 234.95 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11731,7 +13480,51 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
+			(at 234.95 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C7209937.html?spm=wm.fly.bg.2.xh___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 234.95 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "AC0402KRX7R0BB221"
+			(at 234.95 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C7209937"
+			(at 234.95 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
 			(at 234.95 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -11992,7 +13785,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C60489.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.4.xh&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 270.51 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -12003,8 +13796,52 @@
 				)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor SMD 0402"
 			(at 270.51 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C60489.html?spm=wm.fly.bg.4.xh___wm.fly.dhl.mly.12-6-1&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdVFVRRFhbVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 270.51 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "RC0402JR-0710KL"
+			(at 270.51 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C60489"
+			(at 270.51 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "YAGEO"
+			(at 270.51 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12084,7 +13921,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 107.95 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -12095,8 +13932,52 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
 			(at 107.95 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 107.95 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 107.95 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 107.95 137.16 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
+			(at 107.95 137.16 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12266,7 +14147,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C77020.pdf?spm=wm.sxq.inf.ggs___wm.fly.bg.0.stp&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
 			(at 118.11 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -12277,8 +14158,52 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Unpolarized capacitor SMD 0402"
 			(at 118.11 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Distributor Link" "https://www.lcsc.com/product-detail/C77020.html?spm=wm.fly.bg.0.stp___wm.fly.tp.3.ml&lcsc_vid=QQRbAQJREQJYUFQARlQPUgVXEgNcVgAFT1NfUwAERwAxVlNeR1NdV1JXRlNfVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D"
+			(at 118.11 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "GRM155R71H104KE14D"
+			(at 118.11 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C77020"
+			(at 118.11 139.7 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MANUFACTURER" "muRata"
+			(at 118.11 139.7 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

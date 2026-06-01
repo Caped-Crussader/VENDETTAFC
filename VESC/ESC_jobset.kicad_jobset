@@ -1,0 +1,55 @@
+{
+  "jobs": [
+    {
+      "description": "",
+      "id": "c3cd2657-40b9-4229-b0c9-22762d6c1ff6",
+      "settings": {
+        "board_only": false,
+        "board_outlines_chaining_epsilon": 0.001,
+        "cut_vias_in_body": true,
+        "description": "",
+        "export_board_body": true,
+        "export_components": true,
+        "export_inner_copper": true,
+        "export_pads": true,
+        "export_silkscreen": true,
+        "export_soldermask": true,
+        "export_tracks": true,
+        "export_zones": true,
+        "fill_all_vias": true,
+        "format": "pdf",
+        "fuse_shapes": true,
+        "include_dnp": true,
+        "include_unspecified": true,
+        "occt_format": 8,
+        "optimize_step": true,
+        "output_filename": ".pdf",
+        "overwrite": false,
+        "subst_models": true,
+        "use_defined_origin": false,
+        "use_drill_origin": false,
+        "use_grid_origin": false,
+        "use_pcb_center_origin": true,
+        "user_origin.x": 199.75,
+        "user_origin.y": 101.5,
+        "vrml_model_dir": "",
+        "vrml_relative_paths": false
+      },
+      "type": "pcb_export_3d"
+    }
+  ],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "",
+      "id": "b63ecc15-3f50-4dea-a1e4-b8f9d15cb692",
+      "only": [],
+      "settings": {
+        "output_path": "ESC_jobset"
+      },
+      "type": "folder"
+    }
+  ]
+}

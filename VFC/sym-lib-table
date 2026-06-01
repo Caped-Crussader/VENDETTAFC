@@ -33,4 +33,5 @@
 	(lib (name "ABM8-27.000MHZ-B2-T") (type "KiCad") (uri "${KIPRJMOD}/Library/ABM8-27.000MHZ-B2-T/ABM8-27.000MHZ-B2-T.kicad_sym") (options "") (descr ""))
 	(lib (name "SMAJ30A") (type "KiCad") (uri "${KIPRJMOD}/Library/SMAJ30A/SMAJ30A.kicad_sym") (options "") (descr ""))
 	(lib (name "SMAJ5.0A") (type "KiCad") (uri "${KIPRJMOD}/Library/SMAJ5.0A/SMAJ5.0A.kicad_sym") (options "") (descr ""))
+	(lib (name "2340901-1") (type "KiCad") (uri "${KIPRJMOD}/Library/2340901-1/2340901-1.kicad_sym") (options "") (descr ""))
 )
