@@ -24,7 +24,7 @@ The VENDETTA stack consists of two boards designed to work together as a matched
 
 A 30×30mm 4-in-1 ESC (25A x 4) designed for 3–6S FPV multirotors.
 
-<img width="2526" height="3451" alt="imagev2" src="https://github.com/user-attachments/assets/bde25ee8-3351-4142-8fb1-18407447f4bf" />
+<img width="2281" height="3345" alt="imagerev2" src="https://github.com/user-attachments/assets/ec56fd9f-23fe-4c76-ae61-d73d791b0647" />
 
 
 > Note: 6 Layer Board, GND (plane 2 and 5) plane photos not included.
@@ -66,7 +66,7 @@ AT32F421 ──→ DShot (from FC) ──→ PWM generation ──→ NSG2065Q �
 
 A 30×30mm F7 Flight Controller targeting feature parity with commercial boards like the SpeedyBee F7 V3, with improvements in IMU performance and power isolation.
 
-<img width="2763" height="3492" alt="imagev2" src="https://github.com/user-attachments/assets/044c504c-7cdd-4e0b-b641-fed1b171914d" />
+<img width="2284" height="3278" alt="imagerev2" src="https://github.com/user-attachments/assets/dcc22e39-5d20-4c9b-a37d-0383a948dee4" />
 
 
 > Note: 6 Layer Board, GND (plane 2 and 5) plane photos not included.
